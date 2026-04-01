@@ -77,7 +77,7 @@ After execution, the graphical user interface will open.
 
 The program provides a Tkinter-based graphical user interface for selecting six WFX files, entering the required physical parameters (`Ma`, `Mn`, and `Step`), and viewing the calculated overlap quantities and final DBOC-related result.
 
-![GUI Screenshot](screenshots/gui_example.png)
+!(screenshots/gui_example.png)
 
 ## Input Data
 
